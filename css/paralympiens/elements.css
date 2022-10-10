@@ -1,0 +1,26 @@
+.para-content {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.para-content h1 {
+  width: 100%;
+}
+.para-content .para-element {
+  color: black;
+  text-decoration: none;
+  width: 200px;
+}
+
+.para-content .element-img-container {
+  height: 250px;
+  width: 200px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+}
+
+.para-content .element-img-container img {
+  height: 100%;
+}

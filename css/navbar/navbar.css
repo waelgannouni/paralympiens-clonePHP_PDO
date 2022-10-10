@@ -1,0 +1,19 @@
+.navbar {
+  font-weight: 700;
+  color: black;
+}
+
+.navbar .signin {
+  background-color: transparent;
+  border: 1px solid black;
+  border-radius: 0;
+  padding: 10px 20px;
+}
+
+.navbar .login {
+  color: black;
+}
+
+.navbar .logo {
+  height: 60px;
+}

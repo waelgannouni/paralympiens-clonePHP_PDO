@@ -1,0 +1,28 @@
+.rea {
+  box-shadow: inset 0 0 10px rgba(190, 190, 190, 0.5);
+  padding: 10px;
+}
+
+.rea .detail {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.rea .detail #rea-det {
+  width: 85%;
+}
+
+.rea .detail #rea-rang {
+  width: 10%;
+}
+
+.nbr-rea {
+  height: 50px;
+  width: 100px;
+}
+
+.rea .nbr-det {
+  height: 30px;
+  width: 80px;
+}

@@ -1,0 +1,35 @@
+.footer {
+  color: rgb(31, 31, 31);
+  box-shadow: 0 -5px 10px rgba(190, 190, 190, 0.3);
+}
+
+.footer .logo-social {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  width: 107px;
+}
+
+.footer .logo-social .logo {
+  width: 100%;
+}
+
+.footer .logo-social .social-title {
+  width: 100%;
+  font-weight: 700;
+  margin: 5px 0;
+}
+
+.footer .logo-social .social {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.footer .copyright {
+  color: white;
+}
+
+.footer .footer-link {
+  color: rgb(31, 31, 31);
+}
